@@ -1,0 +1,46 @@
+<div  class="row">
+			    <div class="col-md-3">
+				   <div class="1stpart">
+				     <div class="taka-part">
+					    <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i  class="fas fa-circle"></i> <h4>1700</h4>
+					 </div>
+				     <div class="imagepart">
+					    <img src="images/work1.png" alt="work1" />
+					 </div>
+                     					 
+				   </div>
+				</div>
+				<div class="col-md-3">
+				   <div class="1stpart">
+				     <div class="taka-part">
+					    <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i  class="fas fa-circle"></i> <h4>1700</h4>
+					 </div>
+				     <div class="imagepart">
+					    <img src="images/work2.png" alt="work2" />
+					 </div>
+                     					 
+				   </div>				
+				</div>
+				<div class="col-md-3">
+				   <div class="1stpart">
+				     <div class="taka-part">
+					    <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i  class="fas fa-circle"></i> <h4>1700</h4>
+					 </div>
+				     <div class="imagepart">
+					    <img src="images/work3.png" alt="work3" />
+					 </div>
+                     					 
+				   </div>				
+				</div>
+				<div class="col-md-3">
+				   <div class="1stpart">
+				     <div class="taka-part">
+					    <i class="fas fa-circle"></i> <i class="fas fa-circle"></i> <i  class="fas fa-circle"></i> <h4>1700</h4>
+					 </div>
+				     <div class="imagepart">
+					    <img src="images/work4.png" alt="work4" />
+					 </div>
+                     					 
+				   </div>				
+				</div>
+			 </div>

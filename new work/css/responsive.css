@@ -1,0 +1,324 @@
+@media (max-width: 1199px){
+	.logo{
+	float:none;
+}
+	.youth{
+		float:none;
+	
+	}
+	.writingpart{
+	padding-top:26px;		
+	}
+	.writingpart h3{
+	padding-bottom:10px;
+	}
+	.writingpart p{
+	padding-bottom:50px;		
+	}
+	.carousel-control-next, .carousel-control-prev{
+	top:90%;
+    }
+	.img1{
+	position:absolute;
+	top:-10%;
+	left:2%;
+}
+.img2{
+	position:absolute;
+	bottom:-10%;
+	right:2%;
+}
+
+}
+@media (max-width: 991px){
+	.navbar-nav{
+		background:#000;
+		border-bottom:none;
+	}
+	.nav-link{
+		text-align:center;
+	}	
+  .who-writing{
+	 width:100px;
+ }
+
+}
+@media (max-width: 991px){
+   .navbar-light .navbar-toggler{
+	   border-color:#fff;
+	   color:#fff!important;
+   }
+    .logo{
+		text-align:center;
+	}
+	.youth{
+		text-align:center;
+	
+	}
+    .slideinimage{
+		width:60%;
+		margin:auto;
+	}
+	.writingpart{
+		width:40%;
+		padding-top:16px;
+		margin:auto;
+	}
+	.writingpart h4{
+	   font-size:20px;
+	}
+	.writingpart h3{
+	   font-size:14px;
+	   margin-left:55px;
+	}
+	.writingpart p{
+		font-size:10px;
+		padding-bottom:44px;
+	}
+	 #we-are .who-writing{
+	 width:600px;
+	 padding-left:10px;
+	 padding-right:10px;
+ }
+ 	.img1{
+	position:absolute;
+	top:-14%;
+	left:0%;
+}
+.img2{
+	position:absolute;
+	bottom:-14%;
+	right:0%;
+}
+.team-image{
+	width:170px;
+	height:170px;
+}
+.team-write{
+	height:40px;
+	width:90%;
+}
+.partner-image{
+	padding-top:80px;
+
+}
+.pic{
+	width:100px;
+	height:100px;
+	background:#fff;
+}
+#partner .icon .fas{
+	color:#ff5b22;
+	font-size:120px;
+}
+}
+
+@media (max-width: 767px){
+	 .slideinimage{
+		 float:none;
+		 width:100%;
+		 margin:auto;
+	 }
+	 .writingpart{
+		 float:none;
+		 width:100%;
+		 padding-top:30px;
+		 margin:auto;
+	 }
+
+    .writingpart h4{
+	font-size:23px;
+	text-align:center;
+    }
+    .writingpart h3{
+	font-size:26px;
+	max-width:200px;
+	margin:auto;
+	padding-bottom:38px;
+	text-align:center;
+    }
+   .writingpart p{
+	font-size:13px;
+	padding-bottom:95px;
+	text-align:center;
+	width:200px;
+    }
+	 #we-are .who-writing{
+	 width:400px;
+	 padding-left:20px;
+	 padding-right:20px;
+ }
+ 	.img1{
+	position:absolute;
+	top:-10%;
+	left:2%;
+}
+.img2{
+	position:absolute;
+	bottom:-10%;
+	right:2%;
+}
+.team-image{
+	width:130px;
+	height:130px;
+}
+.partner-image{
+	padding-top:30px;
+}
+.pic{
+	width:70px;
+	height:70px;
+	background:#fff;
+}
+#partner .icon .fas{
+	color:#ff5b22;
+	font-size:70px;
+}
+    .manubar ul{
+		float:none;
+	}
+	.manubar ul li{
+		display:block;
+	    text-align:center;
+		margin-top:20px;
+	}
+	#footer .logo{
+		width:30%;
+		margin:auto;
+	}
+	#footer .youth{
+	 margin-left:28%;
+    }
+	.youth:after{
+	 margin-left:28%;
+     width:55%;	 
+	}
+	.KEEP{
+		margin-top:20px;
+	}
+	.footer-right .NEWLETTER{
+		margin-top:20px;
+	}
+}
+@media (max-width: 581px){
+	
+	.slideinimage{
+		 float:none;
+		 width:70%;
+		 margin:auto;
+	 }
+	 .writingpart{
+		 float:none;
+		 width:70%;
+		 padding-top:30px;
+		 margin:auto;
+	 }
+	 #we-are .who-writing{
+	     width:50%;
+	 padding-left:20px;
+	 padding-right:20px;
+ }
+  	.img1{
+	position:absolute;
+	top:-8%;
+	left:15%;
+}
+.img2{
+	position:absolute;
+	bottom:-8%;
+	right:15%;
+}
+	.logo{
+		text-align:center;
+		margin-top:30px;
+	}
+	#menu button{
+		text-align:center;
+		margin:auto;
+	}
+	.support{
+		margin-top:70px;
+	}
+	.who{
+		margin-top:70px;
+	}
+	.event-part{
+		margin:auto;
+	}
+	#event h1{
+	  margin:auto;	
+	}
+	.event-tec {
+		margin-top:40px;
+	}
+	
+	
+}
+@media (max-width: 575px){
+	#team h1{
+		padding-bottom:none;
+	}
+	.team{
+		margin-top:70px;
+	}
+	.team-image{
+		margin:auto;
+	}
+	.team-write{
+	height:40px;
+	width:50%;
+	margin-left:25%;
+    }
+.pic{
+	text-align:center;
+	width:170px;
+	height:170px;
+	background:#fff;
+	margin-top:20px;
+	margin-left:30%;
+}
+
+#partner .icon .fas{
+	text-align:center;
+}
+.KEEP{
+		margin-left:40%;
+	}
+#footer .facebook .fab{
+	margin-left:50%;
+	margin-top:20px;
+}
+
+#footer .instegram .fab{
+	margin-left:50%;
+	margin-top:20px;
+}
+
+#footer .youtube .fab{
+    margin-left:50%;
+    margin-top:20px;
+}
+}
+
+@media (max-width: 393px){
+	.img1{
+	position:absolute;
+	top:-4%;
+	left:10%;
+}
+.img2{
+	position:absolute;
+	bottom:-4%;
+	right:10%;
+}
+	.team-write{
+	height:40px;
+	width:50%;
+	margin-left:22%;
+    }
+	.pic{
+		margin-left:25%;
+	}
+	
+}
+

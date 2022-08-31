@@ -1,0 +1,454 @@
+ *{
+	margin:0;
+	padding:0;
+}
+#manu{
+	background-color:#fff;
+}
+#manu .bg-light{
+	background-color:#fff !important;
+}
+#manu .navbar{
+	
+	padding-top:20px;
+	padding-bottom:20px;
+}
+#manu .badge-light{
+	background:#000;
+	color:#fff;
+}
+#manu .badge{
+     vertical-align: text-top;
+}
+.navbar-light .navbar-nav .nav-link{
+   color:blue;	
+   padding-left:17px;
+   padding-right:17px;
+   padding-top:0px;
+   padding-bottom:0px;
+   border-right:1px solid #CCCCCC;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+	color:blue;
+}
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link{
+	
+	color:#000;
+}
+.navbar-brand{
+	width:20%;
+}
+.navbar-brand img{
+	width:100%;
+}
+#manubar{
+	background:#283747;
+	
+}
+#manubar .bg-light{
+	background-color:#283747 !important;
+	color:#FFF;
+}
+#manubar .navbar{
+	    padding-top:0px;
+    padding-bottom:0px;
+}
+#manubar .navbar-light .navbar-nav .nav-link{
+	color:#fff;
+	padding-left:17px;
+    padding-right:17px;
+       padding-top:20px;
+    padding-bottom:20px;
+	border:none;
+
+}
+#manubar .navbar-light .navbar-nav .nav-link:hover{
+	color:#fff;
+	background:#2874F0;
+}
+#manubar .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link{
+	color:#fff;
+	background:#2874F0;
+}
+#manubar .dropdown-item:focus, .dropdown-item:hover{
+    color:blue;
+	background:#fff;
+}
+
+#backimage{
+	background:url(../images/backimage.jpg) no-repeat;
+	color:#fff;
+ background-attachment: fixed;
+}
+.overlay{
+	width:100%;
+	background:rgba(0,0,0,.8);
+}
+#backimage .writting{
+	padding:170px 0px;
+	text-align:center;
+}
+
+#backimage .writting p{
+	padding-top:20px;
+	padding-bottom:50px;
+}
+
+#backimage .input-group{
+	width:50%;
+	margin:auto;
+}
+
+#backimage .form-control{
+	padding:27px 0px;
+    
+}
+#backimage .input-group-text{
+	background:#F35422;
+	border:none;
+}
+
+#backimage .input-group-text .fas{
+	color:#fff;
+	font-size:30px;
+}
+#tab-bar{
+	background:#EBEEEF;
+
+}
+
+#tab-bar ul{
+	list-style:none;
+    padding:0px;
+    margin:0;	
+}
+#tab-bar ul li{
+	display:inline;
+	padding:none;
+	list-style:none;
+	border:none;
+}
+#tab-bar ul li .active{
+	border-bottom:3px solid #FE5722;
+	color:#000;
+}
+#tab-bar ul li button{
+	text-decoration:none;
+	background:#EBEEEF;
+	color:#AEB6CE;
+	border-left:none;
+	border-right:none;
+	border-top:none;
+	border-bottom:3px solid #EBEEEF;
+    padding:30px 40px;
+	cursor:pointer;
+}
+#tab-bar ul li button:hover{
+	border-bottom:3px solid #FE5722;
+	color:#000;
+} 
+#tab-bar ul li button .fas{
+	font-size:20px;
+}
+
+#tab-part{	
+  background:#4B4B70; 
+}
+#tab-part .main{
+	position:relative;
+	padding-bottom:300px;
+	padding-top:40px;
+}
+#tab-part .main .part{
+	position:absolute;
+    opacity:0;
+	width:100%;
+
+}
+#tab-part .main .part .writing{
+	background:#283747;
+	color:#fff;
+}
+#tab-part .main .part .image img{
+    width:100%;
+}
+#tab-part .main .active{
+   opacity:1;
+ 
+}
+
+#tab-part .main .part .imagepart img{
+	width:100%;
+}
+#benefits{
+	padding:80px 0px;
+ 	background:#F8F8F8;
+
+} 
+#benefits .benefitswrite{
+	text-align:center;
+	color:#455A64;
+    font-weight:bold;
+}
+#benefits .benefitpart{
+	padding-top:70px;
+
+}
+#benefits .part img{
+	width:100%;
+}
+#benefits .benefitpart .part{
+	padding:20px 20px 20px 20px;
+	background:#fff;
+	color:#455A64;
+}
+#benefits .benefitpart .part h4{
+	font-weight:bold;
+	text-align:center;
+	padding:10px 0px 20px 0px;
+}
+#benefits .benefitpart .part p{
+	width:100%;
+
+}
+
+#Purchase{
+	background:#2874F0;
+	color:#fff;
+    text-align:center;
+	padding:80px 0px;
+
+}
+#Purchase .part{
+	text-align:center;
+	padding:40px 0px;
+	
+}
+#Purchase .icon{
+	width:50px;
+	height:50px;
+	border:1px solid #fff;
+	border-radius:100%;
+	text-align:center;
+	margin-left:40%;
+}
+#Purchase .icon .fas{
+	margin-top:37%;
+	
+}
+#Purchase .mainpart{
+	position:relative;
+	overflow:hidden;
+}
+#Purchase .lastpart{
+	position:absolute;
+	top:20%;
+	left:14%;
+}
+
+#Purchase .lastpart2{
+	position:absolute;
+	top:20%;
+	left:39%;	
+}
+
+#Purchase .lastpart3{
+	position:absolute;
+	top:20%;
+	right:14%;	
+}
+
+#customer{
+	background:url(../images/parallax.jpg) no-repeat;
+	background-size:cover;
+
+}
+
+#customer .overlay{
+	width:100%;
+	background:rgba(0,0,0,.4);
+} 
+#customer .owl-theme .owl-dots, .owl-theme .owl-nav{
+	display:none;
+}
+
+#customer .customer-part{
+	background:#fff;
+	color:#000;
+	text-align:center;
+    padding:30px 10px;
+	}
+
+#customer .customer-part img{
+	margin:0 auto;
+	height:100px;
+	width:100px;
+    border:1px solid #fff;
+    border-radius:100%;
+}
+
+#customer .insideoverlay{
+	padding:60px 0px;
+}
+
+
+#service{
+	padding:70px 00px;
+	text-align:center;
+	color:#615A64;
+}
+
+#service .servicewriter h1{
+	color:#455A64;
+	font-weight:700;
+}
+
+#service .part{
+	border:1px solid #EEEEEE;
+	padding:40px 10px;
+}
+
+#service .part .icon{
+	background:#fff;
+	color:#3B5998;
+	
+}
+#service .part .icon .fas{
+	font-size:40px;
+	
+}
+#service .part h4{
+	padding-top:25px;
+	padding-bottom:20px;
+	font-size:20px;
+	
+}
+
+ 
+#service .part	.rest-part{
+	padding-top:30px;
+	padding-bottom:20px;
+	width:80%;
+	margin:0 auto;
+}
+
+#service .part	.rest-part h6{
+	padding:10px 0px;
+	border-bottom:1px dotted #EEEEEE;
+}
+#service .part	.rest-part h6:hover{
+	color:#6E74F1;
+	
+}
+
+#service .part button{
+	padding:10px 20px;
+	background:#0C66F9;
+	color:#fff;
+	border:1px solid #0C66F9;
+	border-radius:40px;
+	cursor: pointer;
+}
+
+#last-part{
+	text-align:center;
+	padding:100px 0px;
+	background:#EBEDEF;
+}
+#last-part .part{
+	cursor: pointer;
+	transition:2s;
+}
+#last-part .part:hover{
+	 transform: translate(0px, -30px);
+	  box-shadow: 10px 10px 8px #888888;
+}
+#last-part a{
+	text-decoration:none;
+	
+}
+#last-part a:hover{
+	
+	
+}
+#last-part .part img{
+	width:100%;
+	
+}
+#last-part .part .writing{
+	padding:30px 10px;
+	background:#fff;
+}
+#last-part .part .writing{
+	color:#455A64;	
+}
+#last-part .part .writing h6{
+	font-weight:bold;
+	font-size:14px;
+}
+#last-part .part .writing p{
+    font-size:15px;
+
+}
+
+
+
+
+/*trendy.html*/
+#backimage1{
+	background:url(../images/whatwedo.jpg) no-repeat;
+	background-size:cover;
+ background-attachment: fixed;
+}
+.from-navbar{
+		height:400px;
+}
+
+
+#what-do{
+	background:#F8F8F8;
+	padding:70px 0px;
+	
+}
+#what-do h1{
+color:#455A64;
+text-align:center;
+}
+#what-do .part{
+	padding:30px 0px;
+
+}
+
+#what-do .part h4{
+	color:#455A64;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
